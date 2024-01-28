@@ -1,0 +1,3 @@
+What about Pod::Markdown::Github, Pithub::Markdown, Pod::Github, Markdent::Dialect::Github, Yaadgom, Swim, or App::oaf? These all support github Markdown. What are you trying to do?
+
+Related: it kills me how many different modules there always are on CPAN to do the same thing. TIMTOWTDI doesn't make any sense at all to me for CPAN modules.
